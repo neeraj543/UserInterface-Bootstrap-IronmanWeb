@@ -1,0 +1,50 @@
+body {
+    color: #fff;
+    margin: 0; 
+    /* background: #1a2a6c;   */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); 
+    
+  }
+  
+  
+  
+  
+  .jumbotron {
+
+    color: #fff;
+    text-shadow: 2px 2px 4px #000;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .jumbotron{
+    background: #1a2a6c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+  }
+  
+  .btn-ironman {
+    color: #fff;
+  }
+  
+  .btn-ironman:hover {
+    background-color: #fff;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #000;
+  }
+  
+  footer p {
+    margin: 0;
+    color: #fff;
+  }
+  
